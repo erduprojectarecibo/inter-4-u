@@ -3,7 +3,10 @@ $(() => {
         closable: false,
         autofocus: false
     })
-    $('.ui.dropdown').dropdown()
+    $('.ui.dropdown').dropdown({
+        selectOnKeydown: false,
+        forceSelection: false
+    })
     $('.ui.accordion').accordion()
 
     // Events
@@ -88,8 +91,7 @@ $(() => {
     }
 
     function appendObj(target, arr) {
-        $(target).append('<div class="entry"><div id="' + arr.Grade + '-' + arr.Cods + '" class="title"><i class="dropdown icon"></i>' +arr.Program + ' - ' + arr.Grade + '</div><div class="content"><p class="paragraph">Program Description:<br/>' +arr.Desc +'</p><br/><br/><p class="method">Education Method: ' + arr.Method.join(', ') + '.</p><p class="credits">Total Credits: ' + arr.Credits + ' credits</p><p class="campus">Campus: ' + arr.Precinct.join(", ") + '.</p></div></div>'
-        )
+        $(target).append('<div class="entry"><div id="' + arr.Grade + '-' + arr.Cods + '" class="title"><i class="dropdown icon"></i>' + arr.Program + ' - ' + arr.Grade + '</div><div class="content"><p class="paragraph">Program Description:<br/>' + arr.Desc + '</p><br/><br/><p class="method">Education Method: ' + arr.Method.join(', ') + '.</p><p class="credits">Total Credits: ' + arr.Credits + ' credits</p><p class="campus">Campus: ' + arr.Precinct.join(", ") + '.</p></div></div>')
     }
 
     function AccordionEmpty() {
