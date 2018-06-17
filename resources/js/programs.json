@@ -1,0 +1,1734 @@
+[{
+        "Cods": "60",
+        "Grade": "AAS",
+        "Credits": 59,
+        "Program": "Accounting",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Metro", "Ponce", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "A452",
+        "Grade": "AAS",
+        "Credits": 60,
+        "Program": "Agricultural Technology",
+        "Precinct": ["Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "A451",
+        "Grade": "AAS",
+        "Credits": 65,
+        "Program": "Biotechnology",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "58",
+        "Grade": "AAS",
+        "Credits": 56,
+        "Program": "Business Administration",
+        "Precinct": ["Ponce", "Aguadilla"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "091C",
+        "Grade": "AAS",
+        "Credits": 76,
+        "Program": "Cardio-respiratory Care",
+        "Precinct": ["Aguadilla", "Guayama", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "071C",
+        "Grade": "AA",
+        "Credits": 60,
+        "Program": "Communications",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "54",
+        "Grade": "AAS",
+        "Credits": 59,
+        "Program": "Computer Science",
+        "Precinct": ["Aguadilla", "Arecibo", "Ponce", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "96",
+        "Grade": "AAS",
+        "Credits": 64,
+        "Program": "Computerized Management Information Systems",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "A251",
+        "Grade": "AA",
+        "Credits": 60,
+        "Program": "Criminal Investigation",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "95",
+        "Grade": "AA",
+        "Credits": 63,
+        "Program": "Criminal Justice",
+        "Precinct": ["Aguadilla", "Arecibo", "Fajardo", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "A252",
+        "Grade": "AA",
+        "Credits": 65,
+        "Program": "Culinary Arts & Gastronomic Sciences",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "A651",
+        "Grade": "AS",
+        "Credits": 67,
+        "Program": "Electronic Engineering Technology",
+        "Precinct": ["Aguadilla", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "75",
+        "Grade": "AVA",
+        "Credits": 61,
+        "Program": "Graphic Design",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "080A",
+        "Grade": "AAS",
+        "Credits": 67,
+        "Program": "Installation and Repair of Computerized Systems and Networks",
+        "Precinct": ["Aguadilla", "Guayama", "Bayamón", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "088I",
+        "Grade": "AA",
+        "Credits": 60,
+        "Program": "Institutional Chaplaincy",
+        "Precinct": ["Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "062A",
+        "Grade": "A",
+        "Credits": 61,
+        "Program": "Insurance",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "A094",
+        "Grade": "AAS",
+        "Credits": 60,
+        "Program": "Mobile Device Programming",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "A253",
+        "Grade": "AA",
+        "Credits": 59,
+        "Program": "Multidisciplinary Studies",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "063A",
+        "Grade": "A",
+        "Credits": 63,
+        "Program": "Music Business Management",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "61",
+        "Grade": "AAS",
+        "Credits": 65,
+        "Program": "Nursing",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Metro", "Ponce", "Bayamón", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "061B",
+        "Grade": "AS",
+        "Credits": 88,
+        "Program": "Occupational Therapy",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "90",
+        "Grade": "AA",
+        "Credits": 59,
+        "Program": "Office Systems Administration",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Metro", "Ponce", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "89",
+        "Grade": "AAS",
+        "Credits": 65,
+        "Program": "Optical Science Technology",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "92",
+        "Grade": "AAS",
+        "Credits": 74,
+        "Program": "Pharmacy Technician",
+        "Precinct": ["Aguadilla", "Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "97",
+        "Grade": "A",
+        "Credits": 56,
+        "Program": "Photography",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "061P",
+        "Grade": "AS",
+        "Credits": 74,
+        "Program": "Physical Therapist Assistant",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "095P",
+        "Grade": "AA",
+        "Credits": 60,
+        "Program": "Police Science",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "87",
+        "Grade": "A",
+        "Credits": 77,
+        "Program": "Popular Music",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "73",
+        "Grade": "AAS",
+        "Credits": 84,
+        "Program": "Radiologic Technology",
+        "Precinct": ["Aguadilla", "Ponce", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "088D",
+        "Grade": "AA",
+        "Credits": 63,
+        "Program": "Religious Studies",
+        "Precinct": ["Metro"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "058F",
+        "Grade": "AAS",
+        "Credits": 67,
+        "Program": "Restaurant and Food Services Administration",
+        "Precinct": ["Aguadilla"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "98",
+        "Grade": "AAS",
+        "Credits": 61,
+        "Program": "Sales",
+        "Precinct": ["Aguadilla", "San Germán", "Ponce"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "88",
+        "Grade": "AA",
+        "Credits": 63,
+        "Program": "Studies in Religion",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "71",
+        "Grade": "AAS",
+        "Credits": 57,
+        "Program": "Technology of Audiovisual Communication",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "81",
+        "Grade": "AAS",
+        "Credits": 64,
+        "Program": "Tour Guide",
+        "Precinct": ["Fajardo", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "82",
+        "Grade": "AAS",
+        "Credits": 66,
+        "Program": "Tourism Administrative Assistant",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    },
+    {
+        "Cods": "166",
+        "Grade": "BBA",
+        "Credits": 121,
+        "Program": "Accounting",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "207",
+        "Grade": "BA",
+        "Credits": 137,
+        "Program": "Adapted Physical Education",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "255",
+        "Grade": "BS",
+        "Credits": 150,
+        "Program": "Administration",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "155",
+        "Grade": "BS",
+        "Credits": 125,
+        "Program": "Airway Sciences in Aviation Management (Professional Pilot)",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "190",
+        "Grade": "BM",
+        "Credits": 122,
+        "Program": "Applied Music",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "152",
+        "Grade": "BS",
+        "Credits": 125,
+        "Program": "Aviation Management",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "180",
+        "Grade": "BS",
+        "Credits": 125,
+        "Program": "Biology",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Hybrid"]
+    }, {
+        "Cods": "263",
+        "Grade": "BS",
+        "Credits": 119,
+        "Program": "Biomedical Sciences",
+        "Precinct": ["Ponce", "Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "258",
+        "Grade": "BS",
+        "Credits": 130,
+        "Program": "Biotechnology",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Bayamón", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "276",
+        "Grade": "BS",
+        "Credits": 126,
+        "Program": "Cardiorespiratory Care",
+        "Precinct": ["Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "284",
+        "Grade": "BS",
+        "Credits": 146,
+        "Program": "Cardiovascular Sonography",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B811",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Ceramics",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "187",
+        "Grade": "BA",
+        "Credits": 147,
+        "Program": "Chemistry",
+        "Precinct": ["San Germán", "Arecibo", "Guayama", "Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "280",
+        "Grade": "BS",
+        "Credits": 126,
+        "Program": "Communication in Media Production",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "272",
+        "Grade": "BS",
+        "Credits": 170,
+        "Program": "Computer Engineering",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "120",
+        "Grade": "BS",
+        "Credits": 122,
+        "Program": "Computer Science",
+        "Precinct": ["Aguadilla", "Arecibo", "Metro", "Ponce", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Hybrid"]
+    }, {
+        "Cods": "120D",
+        "Grade": "BS",
+        "Credits": 122,
+        "Program": "Computer Sciences",
+        "Precinct": ["Aguadilla"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "240A",
+        "Grade": "BS",
+        "Credits": 121,
+        "Program": "Computer Sciences in Installation and Repair of Computerized Systems and Networks",
+        "Precinct": ["Aguadilla", "Guayama", "Bayamón", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "289",
+        "Grade": "BA",
+        "Credits": 123,
+        "Program": "Corporative Communication",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "194A",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Criminal Investigation",
+        "Precinct": ["Ponce", "Aguadilla", "Arecibo", "Guayama", "Metro", "Fajardo", "Barranquitas"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "196",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Criminal Justice",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "143D",
+        "Grade": "BSS",
+        "Credits": 123,
+        "Program": "Criminology",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "282",
+        "Grade": "BA",
+        "Credits": 139,
+        "Program": "Deaf and Partially Deaf",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "283",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Design",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "285",
+        "Grade": "BS",
+        "Credits": 128,
+        "Program": "Design & Development of Video-Games",
+        "Precinct": ["Bayamón", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "291",
+        "Grade": "BS",
+        "Credits": 123,
+        "Program": "Digital Graphic Design and Multimedia",
+        "Precinct": ["Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B812",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Drawing",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "260",
+        "Grade": "BS",
+        "Credits": 150,
+        "Program": "Education",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "216",
+        "Grade": "BS",
+        "Credits": 171,
+        "Program": "Electrical Engineering",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "231",
+        "Grade": "BA",
+        "Credits": 142,
+        "Program": "Elementary Education in Special Education",
+        "Precinct": ["Aguadilla", "Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "206",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Elementary Level",
+        "Precinct": ["Aguadilla", "Guayama", "Ponce", "Metro", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "237",
+        "Grade": "BA",
+        "Credits": 128,
+        "Program": "Elementary Level (4-6)",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Fajardo", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "141",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "English",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "275",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Entrepreneurial and Managerial Development",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "295",
+        "Grade": "BS",
+        "Credits": 129,
+        "Program": "Environmental Management",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "241",
+        "Grade": "BS",
+        "Credits": 127,
+        "Program": "Environmental Sciences",
+        "Precinct": ["Ponce", "Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "229",
+        "Grade": "BS",
+        "Credits": 129,
+        "Program": "Environmental Technology",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "222",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Finance",
+        "Precinct": ["Ponce", "Metro", "Bayamón", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "294",
+        "Grade": "BS",
+        "Credits": 127,
+        "Program": "Forensic Biology",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "194B",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Forensic Investigation",
+        "Precinct": ["Aguadilla", "Ponce", "Bayamón", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "262",
+        "Grade": "BS",
+        "Credits": 121,
+        "Program": "Forensic Science",
+        "Precinct": ["Aguadilla", "Ponce", "Bayamón", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "121",
+        "Grade": "BBA",
+        "Credits": 120,
+        "Program": "General",
+        "Precinct": ["Metro", "Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "197",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "General Anthropology",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "211",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "General Sociology",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "109",
+        "Grade": "BA",
+        "Credits": 122,
+        "Program": "History",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "227R",
+        "Grade": "BBA",
+        "Credits": 128,
+        "Program": "Hotel and Restaurant Management",
+        "Precinct": ["Aguadilla", "Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "214A",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Human Resources Management",
+        "Precinct": ["Aguadilla", "Ponce", "Arecibo", "Guayama", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "137",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Humanistic Studies",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "259",
+        "Grade": "BS",
+        "Credits": 134,
+        "Program": "Industrial Chemistry",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "217",
+        "Grade": "BS",
+        "Credits": 169,
+        "Program": "Industrial Engineering",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B002",
+        "Grade": "BS",
+        "Credits": 122,
+        "Program": "Informatics Forensic",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "287D",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Information Technology",
+        "Precinct": ["Aguadilla", "Metro", "Bayamón", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "290",
+        "Grade": "BA",
+        "Credits": 130,
+        "Program": "Interdisciplinary Special Education (PK-12)",
+        "Precinct": ["Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "233D",
+        "Grade": "BBA",
+        "Credits": 128,
+        "Program": "International Business",
+        "Precinct": ["Metro"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "212A",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Management",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "167",
+        "Grade": "BBA",
+        "Credits": 119,
+        "Program": "Managerial Economics",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B522",
+        "Grade": "BS",
+        "Credits": 124,
+        "Program": "Marine Science",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "149A",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Marketing",
+        "Precinct": ["Aguadilla", "Ponce", "Arecibo", "Metro", "Bayamón", "Fajardo", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "111",
+        "Grade": "BA",
+        "Credits": 116,
+        "Program": "Math",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "128",
+        "Grade": "BA",
+        "Credits": 130,
+        "Program": "Mathematics",
+        "Precinct": ["Arecibo", "Metro", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "218",
+        "Grade": "BS",
+        "Credits": 169,
+        "Program": "Mechanical Engineering",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "165",
+        "Grade": "BS",
+        "Credits": 148,
+        "Program": "Medical Technology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "268",
+        "Grade": "BS",
+        "Credits": 123,
+        "Program": "Microbiology",
+        "Precinct": ["Aguadilla", "Ponce", "Metro", "Bayamón", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "292",
+        "Grade": "BA",
+        "Credits": 124,
+        "Program": "Multidisciplinary Studies",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "112",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Music",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "192",
+        "Grade": "BM",
+        "Credits": 154,
+        "Program": "Music Education: General Vocal",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "191",
+        "Grade": "BM",
+        "Credits": 154,
+        "Program": "Music Education: Instrumental",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "293",
+        "Grade": "BS",
+        "Credits": 120,
+        "Program": "Natural Science",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "269",
+        "Grade": "BS",
+        "Credits": 124,
+        "Program": "Networks and Telecommunications",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "150",
+        "Grade": "BSN",
+        "Credits": 120,
+        "Program": "Nursing",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "249",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Office Systems Administration",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "286D",
+        "Grade": "BBA",
+        "Credits": 119,
+        "Program": "Operation Management",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "286",
+        "Grade": "BBA",
+        "Credits": 122,
+        "Program": "Operations Management",
+        "Precinct": ["Ponce", "Metro", "Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B816",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Painting",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B814",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Photography",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "176",
+        "Grade": "BA",
+        "Credits": 134,
+        "Program": "Physical Education at the Secondary Level",
+        "Precinct": ["Aguadilla", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "178",
+        "Grade": "BA",
+        "Credits": 134,
+        "Program": "Physical Education: Elementary Level",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "114",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Politics Sciences",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "232",
+        "Grade": "BA",
+        "Credits": 129,
+        "Program": "Popular Music",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "245",
+        "Grade": "BS",
+        "Credits": 55,
+        "Program": "Pre- Engineering Program",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "243",
+        "Grade": "BA",
+        "Credits": 126,
+        "Program": "Preschool Level",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Fajardo", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "236D",
+        "Grade": "BA",
+        "Credits": 127,
+        "Program": "Primary Level (K-3)",
+        "Precinct": ["Arecibo", "Aguadilla", "Guayama", "Ponce", "Metro", "Fajardo", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "B815",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Printmaking",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "115D",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Psychology",
+        "Precinct": ["Ponce", "Aguadilla", "Arecibo", "Metro", "Fajardo", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "235",
+        "Grade": "BA",
+        "Credits": 114,
+        "Program": "Public Relations & Advertising",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "210",
+        "Grade": "BS",
+        "Credits": 117,
+        "Program": "Pure Mathematics",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "273",
+        "Grade": "BS",
+        "Credits": 132,
+        "Program": "Radiological Sciences in Computerized Tomography and Magnetic Resonance",
+        "Precinct": ["Aguadilla", "Ponce", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "274",
+        "Grade": "BS",
+        "Credits": 129,
+        "Program": "Radiological Technology in Mammography & Angiography",
+        "Precinct": ["Aguadilla", "Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "288",
+        "Grade": "BBA",
+        "Credits": 124,
+        "Program": "Real State",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "239D",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Religious Studies",
+        "Precinct": ["Metro", "Fajardo"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "267D",
+        "Grade": "BA",
+        "Credits": 124,
+        "Program": "School Health",
+        "Precinct": ["Arecibo"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "175",
+        "Grade": "BA",
+        "Credits": 131,
+        "Program": "Science for Junior High School",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "B813",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 114,
+        "Program": "Sculpture",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "145D",
+        "Grade": "BA",
+        "Credits": 132,
+        "Program": "Second Level Education Teaching of Spanish",
+        "Precinct": ["Arecibo"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "147",
+        "Grade": "BA",
+        "Credits": 127,
+        "Program": "Secondary Level",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "119",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Social Sciences",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "177",
+        "Grade": "BA",
+        "Credits": 128,
+        "Program": "Social Studies",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "118",
+        "Grade": "BA",
+        "Credits": 117,
+        "Program": "Social Work",
+        "Precinct": ["Aguadilla", "Arecibo", "Metro", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "107",
+        "Grade": "BA",
+        "Credits": 116,
+        "Program": "Spanish",
+        "Precinct": ["Metro", "Aguadilla", "Arecibo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "136",
+        "Grade": "BA",
+        "Credits": 121,
+        "Program": "Special Education",
+        "Precinct": ["Arecibo", "Metro", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "277",
+        "Grade": "BA",
+        "Credits": 133,
+        "Program": "Special Education in Autism",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "281",
+        "Grade": "BS",
+        "Credits": 121,
+        "Program": "Speech and Language Therapy",
+        "Precinct": ["Aguadilla", "Ponce", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "189",
+        "Grade": "BA",
+        "Credits": 113,
+        "Program": "Sports Technology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "278",
+        "Grade": "BA",
+        "Credits": 120,
+        "Program": "Sports and Fitness Management",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "254",
+        "Grade": "Bachelor of Arts in Fine Arts Cert. 2016-236 (CN)",
+        "Credits": 141,
+        "Program": "Teaching Art",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "147D",
+        "Grade": "BA",
+        "Credits": 127,
+        "Program": "Teaching of English as a Second Language",
+        "Precinct": ["Arecibo"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "B521",
+        "Grade": "BS",
+        "Credits": 123,
+        "Program": "Tecnología de Ingeniería Electrónica/ Electronic Engineering Technology",
+        "Precinct": ["Aguadilla", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "279",
+        "Grade": "BBA",
+        "Credits": 125,
+        "Program": "Tourism Management",
+        "Precinct": ["Fajardo", "Barranquitas"],
+        "Method": ["Presencial"]
+    },
+    {
+        "Cods": "587",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Business Education",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "D702",
+        "Grade": "PsyD",
+        "Credits": 60,
+        "Program": "Clinical and Counseling Psychology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "D701",
+        "Grade": "PsyD",
+        "Credits": 60,
+        "Program": "Clinical and School Psychology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "530C",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Counseling",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "540C",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Curriculum and Teaching",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "510",
+        "Grade": "OD",
+        "Credits": 163,
+        "Program": "Doctor of Optometry",
+        "Precinct": ["Derechos"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "590D",
+        "Grade": "PhD",
+        "Credits": 33,
+        "Program": "Doctorate in Philosophy in Second Language Research",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "D001",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Education in Mathematics",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "520C",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Educational Management and Leadership",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "588",
+        "Grade": "DBA",
+        "Credits": 48,
+        "Program": "Finance",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "525",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Higher Education",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "586",
+        "Grade": "OD",
+        "Credits": 30,
+        "Program": "History of America",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "586C",
+        "Grade": "OD",
+        "Credits": 57,
+        "Program": "History of America - MASTER & DOCTORAL COMBINED  PROGRAM",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "581",
+        "Grade": "PhD",
+        "Credits": 55,
+        "Program": "Human Resources",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "585",
+        "Grade": "PhD",
+        "Credits": 53,
+        "Program": "Industrial Organizational Psychology",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "580",
+        "Grade": "PhD",
+        "Credits": 55,
+        "Program": "Interregional and International Business",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "500",
+        "Grade": "OD",
+        "Credits": 92,
+        "Program": "Jurisprudence (JD)",
+        "Precinct": ["Derechos"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "521D",
+        "Grade": "EdD",
+        "Credits": 38,
+        "Program": "Leadership and Instruction in On-line Education",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "508",
+        "Grade": "OD",
+        "Credits": 14,
+        "Program": "Legal Sciences",
+        "Precinct": ["Derechos"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "583",
+        "Grade": "PhD",
+        "Credits": 53,
+        "Program": "Psychological Counseling",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "584",
+        "Grade": "PhD",
+        "Credits": 53,
+        "Program": "School Psychology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "589",
+        "Grade": "EdD",
+        "Credits": 51,
+        "Program": "Special Education and Transition Services",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "577",
+        "Grade": "PhD",
+        "Credits": 45,
+        "Program": "Theology",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    },
+    {
+        "Cods": "396",
+        "Grade": "MIBA",
+        "Credits": 42,
+        "Program": "Accounting",
+        "Precinct": ["Ponce", "Barranquitas", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "420",
+        "Grade": "MS",
+        "Credits": 33,
+        "Program": "Aerospace",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "363",
+        "Grade": "MS",
+        "Credits": 52,
+        "Program": "Anesthesia",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "381",
+        "Grade": "MA",
+        "Credits": 33,
+        "Program": "Applied Mathematics",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "417",
+        "Grade": "MEd",
+        "Credits": 36,
+        "Program": "Bilingual Education",
+        "Precinct": ["Aguadilla"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T003",
+        "Grade": "MS",
+        "Credits": 35,
+        "Program": "Bioinformatics",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "386",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "Biology",
+        "Precinct": ["Arecibo", "Ponce", "Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "423",
+        "Grade": "MS",
+        "Credits": 36,
+        "Program": "Biotechnology of Plants",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "316D",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Business Administration General Program",
+        "Precinct": ["Metro", "Fajardo", "Bayamón", "San Germán"],
+        "Method": ["Distancia", "Presencial"]
+    }, {
+        "Cods": "T006",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Business and Entrepreneurial Education",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "372",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Ceramics",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "387",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "Chemistry",
+        "Precinct": ["Ponce"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "406",
+        "Grade": "MS",
+        "Credits": 37,
+        "Program": "Computer Science",
+        "Precinct": ["Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "406D",
+        "Grade": "MS",
+        "Credits": 37,
+        "Program": "Computer Sciences",
+        "Precinct": ["Fajardo"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "T005",
+        "Grade": "ME",
+        "Credits": 33,
+        "Program": "Control Systems",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "309A",
+        "Grade": "MA",
+        "Credits": 42,
+        "Program": "Counseling",
+        "Precinct": ["Arecibo", "Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "302",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Criminal Justice",
+        "Precinct": ["Aguadilla", "Ponce", "Metro", "Fajardo", "Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "407",
+        "Grade": "MSN",
+        "Credits": 41,
+        "Program": "Critical Care",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "390",
+        "Grade": "MSW",
+        "Credits": 55,
+        "Program": "Direct Services",
+        "Precinct": ["Arecibo", "Metro", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "368",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Drawing",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "355",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Educational Computing",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "402D",
+        "Grade": "MEd",
+        "Credits": 36,
+        "Program": "Educational Management & Leadership",
+        "Precinct": ["Arecibo"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "402",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Educational Management and Leadership",
+        "Precinct": ["Aguadilla", "Arecibo", "Metro", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "410",
+        "Grade": "MA",
+        "Credits": 33,
+        "Program": "Educational Neuroscience",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "419",
+        "Grade": "MS",
+        "Credits": 33,
+        "Program": "Energy",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "383",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "English as a Second Language",
+        "Precinct": ["Arecibo", "Ponce", "Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "362A",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Environmental Biology",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "362B",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Environmental Chemistry",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "413",
+        "Grade": "MS",
+        "Credits": 35,
+        "Program": "Environmental and Ecological Sciences",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "314",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Finance",
+        "Precinct": ["Aguadilla", "Arecibo", "Metro", "San Germán", "Ponce"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "424",
+        "Grade": "MS",
+        "Credits": 36,
+        "Program": "General Biotechnology",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "430D",
+        "Grade": "MIBA",
+        "Credits": 42,
+        "Program": "Global Logistics",
+        "Precinct": ["Ponce"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "T002",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Government and Public Policy",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "336",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "History",
+        "Precinct": ["Metro", "Ponce", "Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "327",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Human Resources",
+        "Precinct": ["Aguadilla", "Arecibo", "Metro", "Bayamón", "Fajardo", "Barranquitas", "San Germán", "Ponce"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "328",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Industrial Management",
+        "Precinct": ["Aguadilla", "Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "359",
+        "Grade": "MA",
+        "Credits": 64,
+        "Program": "Industrial- Organizational Psychology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "440D",
+        "Grade": "MS",
+        "Credits": 33,
+        "Program": "Information Security Internet",
+        "Precinct": ["Metro"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "411",
+        "Grade": "MEd",
+        "Credits": 36,
+        "Program": "Information Technology and Library Services",
+        "Precinct": ["Barranquitas"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "416",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "Interdisciplinary Special Education",
+        "Precinct": ["Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "377",
+        "Grade": "MIB",
+        "Credits": 44,
+        "Program": "International Business",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "322",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Labor Relations",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "342",
+        "Grade": "MLS",
+        "Credits": 39,
+        "Program": "Library and Information Sciences",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "505",
+        "Grade": "ML",
+        "Credits": 24,
+        "Program": "Litigation and Alternative Dispute Resolution",
+        "Precinct": ["Aguadilla"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "361",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Managerial Information Systems",
+        "Precinct": ["Aguadilla", "Metro", "Fajardo", "San Germán"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "312",
+        "Grade": "MBA",
+        "Credits": 42,
+        "Program": "Marketing",
+        "Precinct": ["Aguadilla", "Guayama", "Metro", "Fajardo", "San Germán", "Ponce"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "425",
+        "Grade": "MSN",
+        "Credits": 41,
+        "Program": "Maternal Child",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "385",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "Mathematics",
+        "Precinct": ["Arecibo", "Ponce"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "408",
+        "Grade": "MSN",
+        "Credits": 41,
+        "Program": "Medical-Surgical",
+        "Precinct": ["Arecibo", "Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T981",
+        "Grade": "MSN",
+        "Credits": 43,
+        "Program": "Mental Health and Psiquiatric",
+        "Precinct": ["Arecibo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "412",
+        "Grade": "MS",
+        "Credits": 35,
+        "Program": "Molecular Biotechnology",
+        "Precinct": ["Aguadilla", "Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T881",
+        "Grade": "MS",
+        "Credits": 35,
+        "Program": "Molecular Diagnostic",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T996",
+        "Grade": "MM",
+        "Credits": 42,
+        "Program": "Music",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "393",
+        "Grade": "MA",
+        "Credits": 34,
+        "Program": "Music Education",
+        "Precinct": ["San Germán", "Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "409D",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Networking Security",
+        "Precinct": ["Guayama"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "409",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Networks and Security",
+        "Precinct": ["Guayama"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "364",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Open Computer Information Systems",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "370",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Panting",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "373",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Photography",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T004",
+        "Grade": "ME",
+        "Credits": 33,
+        "Program": "Power Systems",
+        "Precinct": ["Bayamón"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "369",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Printmaking",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "323",
+        "Grade": "MA",
+        "Credits": 62,
+        "Program": "Psychological Counseling",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "405",
+        "Grade": "MS",
+        "Credits": 59,
+        "Program": "Psychological Counseling in Family",
+        "Precinct": ["Aguadilla"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "426",
+        "Grade": "MA",
+        "Credits": 42,
+        "Program": "Religious Education",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "324",
+        "Grade": "MA",
+        "Credits": 62,
+        "Program": "School Psychology",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "371",
+        "Grade": "MA",
+        "Credits": 60,
+        "Program": "Sculpture",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "351",
+        "Grade": "MSW",
+        "Credits": 55,
+        "Program": "Social Work Administration",
+        "Precinct": ["Arecibo", "Metro", "Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "382",
+        "Grade": "MEd",
+        "Credits": 39,
+        "Program": "Spanish",
+        "Precinct": ["Arecibo", "Ponce", "Barranquitas"],
+        "Method": ["Presencial", "Distancia"]
+    }, {
+        "Cods": "329",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Special Education",
+        "Precinct": ["Arecibo", "Ponce", "Metro", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "429",
+        "Grade": "MS",
+        "Credits": 59,
+        "Program": "Speech-Language Pathology",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "400",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Sport Training and Performance",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "395",
+        "Grade": "MEd",
+        "Credits": 36,
+        "Program": "Teaching at the Elementary Level",
+        "Precinct": ["Aguadilla", "Arecibo", "Guayama", "Ponce", "Metro", "Fajardo", "Barranquitas", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "300",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Teaching of English as a Second Language",
+        "Precinct": ["Metro", "San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "376",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Teaching of Mathematics",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "401",
+        "Grade": "MA",
+        "Credits": 36,
+        "Program": "Teaching of Physical Education",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "418",
+        "Grade": "MA",
+        "Credits": 33,
+        "Program": "Teaching of Reading and Writing",
+        "Precinct": ["Metro"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "343",
+        "Grade": "MA",
+        "Credits": 39,
+        "Program": "Teaching of Science",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "T001",
+        "Grade": "MBA",
+        "Credits": 45,
+        "Program": "Tourism",
+        "Precinct": ["Fajardo"],
+        "Method": ["Presencial"]
+    }, {
+        "Cods": "404",
+        "Grade": "MA",
+        "Credits": 30,
+        "Program": "University Teaching",
+        "Precinct": ["Metro"],
+        "Method": ["Distancia"]
+    }, {
+        "Cods": "362C",
+        "Grade": "MS",
+        "Credits": 39,
+        "Program": "Water Resources and Unit Operations",
+        "Precinct": ["San Germán"],
+        "Method": ["Presencial"]
+    }
+]
