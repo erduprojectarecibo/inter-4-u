@@ -13,7 +13,7 @@
     <header>
         <div class='container'>
             <div>
-                <div id='show-modal' class='ui button'>
+                <div id='toggle-modal' class='ui button'>
                     <i class='bars icon'></i>
                 </div>
             </div>
@@ -52,15 +52,16 @@
         </div>
     </div>
     <div class='ui modal'>
+        <i class="close icon"></i>
         <div class='header'>
-            Settings
+            Filter Settings
         </div>
         <div class='content'>
             <form class='ui form'>
                 <div class='field'>
-                    <label>Pick one or two Precincts:</label>
+                    <label>Filter Programs by two Campuses or fewer:</label>
                     <select id='precinct-select' class='ui fluid dropdown' multiple>
-                        <option value=''>Choose Precincts</option>
+                        <option value=''>Choose Campus</option>
                         <option value='Aguadilla'>Aguadilla</option>
                         <option value='Arecibo'>Arecibo</option>
                         <option value='Barranquitas'>Barranquitas</option>
@@ -76,19 +77,17 @@
             </form>
         </div>
         <div class='actions segment'>
-            <div class='ui button deny'>
-                Close
-            </div>
-            <div id='header-button' class='ui button approve green'>
+            <button id="header-clear-button" class="ui button">Clear Filter</button>
+            <div id='header-button' class='ui button approve'>
                 Apply
             </div>
         </div>
     </div>
+
     <!-- Vendors -->
     <link rel='stylesheet' href='resources/vendors/semantic/semantic.min.css'>
     <script src='resources/vendors/jquery/jquery-3.3.1.min.js'></script>
     <script src='resources/vendors/semantic/semantic.min.js'></script>
-
     <!-- My files -->
     <link rel='stylesheet' type='text/css' media='screen' href='resources/css/main.css' />
     <script src='resources/js/main.js'></script>

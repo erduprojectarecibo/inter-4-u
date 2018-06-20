@@ -3,15 +3,19 @@ $(() => {
         closable: false,
         autofocus: false
     })
+
     $('.ui.dropdown').dropdown({
-        maxSelections: 2
+        maxSelections: 2,
+        message: {
+            maxSelections: 'Maximum of {maxCount} campuses.',
+        }
     })
 
     $('.ui.accordion').accordion()
 
     // Events
-    $('#show-modal').click(() => {
-        $('.ui.modal').modal('show')
+    $('#toggle-modal').click(function () {
+        $('.ui.modal').modal('toggle')
     })
 
     $('#header-button').click(function () {
@@ -30,6 +34,11 @@ $(() => {
                 break
         }
         AccordionEmpty()
+    })
+
+    $('#header-clear-button').click(function () {
+        $("#precinct-select").dropdown('clear')
+        $('#header-button').trigger('click')
     })
 
     // App 
