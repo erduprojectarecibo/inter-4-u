@@ -4,29 +4,14 @@ $(() => {
         autofocus: false
     })
     $('.ui.dropdown').dropdown({
-        selectOnKeydown: false,
-        forceSelection: false
+        maxSelections: 2
     })
+
     $('.ui.accordion').accordion()
 
     // Events
     $('#show-modal').click(() => {
         $('.ui.modal').modal('show')
-    })
-
-    $('#precinct-select').change(function () {
-        let msg = $('#header-message')
-        btn = $('#header-button')
-        neg = 'negative'
-        dis = 'disabled'
-
-        if ($(this).val().length > 2) {
-            msg.removeClass('warning').addClass(neg)
-            btn.addClass(dis)
-        } else {
-            msg.removeClass(neg).addClass('positive')
-            btn.removeClass(dis)
-        }
     })
 
     $('#header-button').click(function () {

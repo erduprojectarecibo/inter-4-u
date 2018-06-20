@@ -11,11 +11,10 @@ body {
 }
 
 header {
-    height: 55px;
+    min-height: 60px;
     background-color: #FFD13F;
-    position: fixed;
-    width: 100%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 #content {
@@ -29,8 +28,8 @@ header {
     max-width: 1000px;
     height: 100%;
     margin: auto;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 header .container {
@@ -62,7 +61,6 @@ header img {
 
 #content h3 {
     text-transform: capitalize;
-    padding-top: 2em;
 }
 
 #message {
