@@ -1,0 +1,20 @@
+{
+  "short_name": "inter4u",
+  "name": "inter4u",
+  "icons": [
+    {
+      "src": "resources/img/erdu-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "resources/img/erdu-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#FFD13F",
+  "display": "standalone",
+  "scope": "/inter-4-u/",
+  "theme_color": "#FFD13F"
+}

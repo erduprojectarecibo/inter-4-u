@@ -7,9 +7,12 @@
     <title>Inter 4 U</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='icon' href='resources/img/erdu-logo.ico' />
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#FFD13F"/>
 </head>
 
 <body>
+    <noscript>This application relies on javascript to function.</noscript>
     <header>
         <div class='container'>
             <div>
@@ -85,12 +88,27 @@
     </div>
 
     <!-- Vendors -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/components/icon.min.css"> -->
     <link rel='stylesheet' href='resources/vendors/semantic/semantic.min.css'>
     <script src='resources/vendors/jquery/jquery-3.3.1.min.js'></script>
     <script src='resources/vendors/semantic/semantic.min.js'></script>
     <!-- My files -->
     <link rel='stylesheet' type='text/css' media='screen' href='resources/css/main.css' />
     <script src='resources/js/main.js'></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(registration => {
+                        console.log('Service Worker Registered, Scope: ', registration.scope);
+                    })
+                    .catch(err => {
+                        console.log('Service Worker registration failed: ', err);
+                    });
+            });
+        } else
+            console.log('serviceworker not supported.');
+    </script>
 </body>
 
 </html>
